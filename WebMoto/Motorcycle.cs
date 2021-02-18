@@ -38,5 +38,7 @@ namespace WebMoto
                               "\nИнформация: " + Info + "\nКраткие характеристики: " + Characteristic +
                               "\nПлюсы данной модели: " + Characteristic + "\nМинусы данной модели " + Minus);
         }
+
+        //comment
     }
 }
